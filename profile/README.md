@@ -15,7 +15,7 @@
 [🎨 Figma](https://www.figma.com/file/0FbUBuc8oeGRL4IUwmkeEB/App%C2%B0?node-id=0%3A1)
 
 <details>
-  <summary>앱 화면 캡쳐</summary>
+  <summary>⭐️ 앱 화면 캡쳐 (클릭) ⭐️</summary>
   
   ### SNS 기능
   <p>
