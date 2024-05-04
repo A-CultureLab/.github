@@ -37,3 +37,6 @@
     <img width="33%" src="https://user-images.githubusercontent.com/48207131/225080029-2abe67dd-a08e-4b60-9435-46ad58166811.png" />
   </p>
 </details>
+
+
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FA-CultureLab&count_bg=%23B6B6B6&title_bg=%23787878&icon=&icon_color=%23E7E7E7&title=H&edge_flat=false)
